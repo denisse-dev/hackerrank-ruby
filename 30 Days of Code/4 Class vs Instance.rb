@@ -16,7 +16,7 @@ class Person
       puts "You are old."
     end
   end
-  
+
   def yearPasses()
     @age += 1
   end
